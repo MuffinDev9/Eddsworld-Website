@@ -69,6 +69,7 @@ section {
 	font-family:eastwood;
 	Margin-bottom: 24px;
 	min-height: 350px;
+	padding-left: 20px;
 }
 section h2 {
 	padding-left: 5px;
@@ -83,7 +84,4 @@ section ul {
 }
 section ul li {
 	padding-bottom: 15px;
-}
-section iframe {
-	margin-left: 10px;
 }
