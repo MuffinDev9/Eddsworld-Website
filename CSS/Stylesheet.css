@@ -8,7 +8,7 @@ body {
 	max-width: 1024px;
 	min-width: 256px;
 	padding-top: 8px;
-	badding-bottom: 24px;
+	padding-bottom: 24px;
 	padding-left: 24px;
 	padding-right: 24px;
 }
@@ -84,4 +84,8 @@ section ul {
 }
 section ul li {
 	padding-bottom: 15px;
+}
+header img {
+	margin-top: 8px;
+	margin-left: 8px;
 }
