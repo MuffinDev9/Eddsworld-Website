@@ -1,4 +1,11 @@
-@import url(https://allfont.net/allfont.css?fonts=eastwood);
+@font-face {
+    font-family: 'Eastwood';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Eastwood'), local('Eastwood-Regular'),
+        url(http://allfont.de/cache/fonts/eastwood_b998fa60df68bdbe4b7063ef9ffd2b0f.woff) format('woff'),
+        url(http://allfont.de/cache/fonts/eastwood_b998fa60df68bdbe4b7063ef9ffd2b0f.ttf) format('truetype');
+}
 
 body {
 	background-color: Green;
