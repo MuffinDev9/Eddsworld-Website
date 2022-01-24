@@ -5,4 +5,6 @@ Ideas For The Site.
  - Add A Bit More Info, Such As Adding More To The Home Page.  
  - Add A **Useful Links** Page.  
  - Make The Font Bigger.  
- - 
+ - Practice Speaking For The Presentation.  
+ - Make The Eddsworld Logo A Link To Their Official Website.  
+ - Finish The **Story Page**.  
