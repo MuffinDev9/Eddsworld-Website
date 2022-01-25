@@ -107,8 +107,5 @@ p.fun-fact::before {
 	content: "FUN FACT: ";
 	font-weight: bold;
 }
-ul {
-	list-style-type:none;
-}
-ul li {
+ul li.animators {
 	padding-bottom: 15px;
