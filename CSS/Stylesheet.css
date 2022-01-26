@@ -110,7 +110,6 @@ p.fun-fact::before {
 ul li.animators {
 	padding-bottom: 15px;
 }
-p {
-	padding-bottom: 10px;
+body ul li {
+	padding-bottom: 5px;
 }
-	
